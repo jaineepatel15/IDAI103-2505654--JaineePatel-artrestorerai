@@ -1,33 +1,32 @@
 # IDAI103-2505654--JaineePatel-artrestorerai
 AI-powered app generating text-based restoration insights for damaged artworks.
 Overview
-The app uses artificial intelligence to repair visual damage such as scratches, faded colors, and missing details in artworks and photographs. It provides a simple, accessible way to digitally restore images without requiring professional editing skills.
+Restoring artwork manually takes time, skill, and expensive tools. ArtRestorerAI was created to make digital restoration easier for everyone. By combining computer vision and AI models with a clean interface, the app helps users restore images affected by scratches, fading, stains, or missing details. The focus is not just on improving image quality, but on keeping the artwork looking natural and authentic.
 
 Objective:
-Automate the digital restoration of artworks using AI
-Preserve the original artistic style and visual authenticity
-Provide a simple and user-friendly restoration experience
-Make art restoration accessible to non-technical users
+The main objectives of ArtRestorerAI are to:
+Use AI to simplify the process of art and photo restoration
+Reduce dependence on complex and costly editing software
+Preserve the original style and character of the artwork
+Provide fast, easy-to-use restoration for non-technical users
 
 Target Audience:
-Art students and educators
-Artists and digital restorers
-Photographers restoring old images
-Museums, archives, and hobbyists
+ArtRestorerAI is designed for:
+Art students and educators exploring digital restoration
+Artists and restorers who want quick restoration previews
+Photographers working with old or damaged images
+Museums, archives, and individuals preserving personal artwork or photographs
 
 User Persona (User Problems):
-User- Art student/hobbyist
-Problems-
-Lacks technical skills in professional restoration software
-Restoration tools are time-consuming and expensive
-Needs quick and realistic restoration results
-Solution-
-ArtRestorerAI offers a one-click, AI-based restoration process with minimal effort.
+A student, artist, or hobbyist with an interest in preserving artwork but limited technical skills.
+Common Problems:
+Doesn’t know how to use professional editing or restoration tools
+Finds manual restoration slow and difficult
+Wants results that look realistic and not overly edited
+Needs a simple upload-and-restore solution
+ArtRestorerAI addresses these problems by offering an intuitive interface and AI-based restoration that requires minimal effort from the user.
 
 User Research Insights & Survey Summary:
-Most users prefer automated restoration over manual editing
-Simplicity and ease of use are top priorities
-Users want results that look natural and not over-edited
-Quick processing and before/after comparison are highly valued
+User research showed that most users prefer automated solutions over manual editing. Many users highlighted the importance of simplicity, speed, and realistic results. A common concern was that AI restorations should not look artificial or exaggerated. Overall, users valued a tool that saves time while still respecting the original artwork.
 
 Streamlit: https://idai103-2505654--jaineepatel-artrestorerai-txgbiwxdzbgzjqgxc5g.streamlit.app/
